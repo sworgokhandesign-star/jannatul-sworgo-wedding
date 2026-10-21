@@ -1,0 +1,6 @@
+{
+  "name": "Jannatul & Sworgo Wedding Invitation",
+  "description": "A Boishakhi-inspired mobile-first wedding invitation for Jannatul Ferdousi and Sworgo Khan, welcoming Dutch guests to celebrate in Gazipur, Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
